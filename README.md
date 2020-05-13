@@ -33,5 +33,9 @@ python3 main.py
 
 
 
+![image-20200513043212809](./img/README/image-20200513043212809.png)
+
+
+
 \#stock #money #forex  #trading \#python #dashboard #screener #scratch
 
